@@ -2,7 +2,7 @@
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/blackbox-api.git
+git clone https://github.com/NalgondaLokesh/blackbox.git
 cd blackbox-api
 pip install -r requirements.txt
 python app.py
